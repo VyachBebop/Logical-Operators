@@ -1,7 +1,8 @@
 public class TaskSix {
+
+    public static void main(String[] args) {
     //TODO Задача 6: Определение сезона года
     // Напишите программу, которая определяет сезон года на основе месяца, введенного пользователем.
-    public static void main(String[] args) {
 
     }
 }
